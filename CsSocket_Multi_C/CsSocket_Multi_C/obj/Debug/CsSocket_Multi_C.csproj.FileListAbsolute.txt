@@ -1,0 +1,8 @@
+c:\users\test\documents\visual studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\bin\Debug\CsSocket_Multi_C.exe.config
+c:\users\test\documents\visual studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\bin\Debug\CsSocket_Multi_C.exe
+c:\users\test\documents\visual studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\bin\Debug\CsSocket_Multi_C.pdb
+c:\users\test\documents\visual studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\obj\Debug\CsSocket_Multi_C.exe
+c:\users\test\documents\visual studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\obj\Debug\CsSocket_Multi_C.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\bin\Debug\CsSocket_Multi_C.exe.config
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\obj\Debug\CsSocket_Multi_C.exe
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\CsSocket_Multi_C\CsSocket_Multi_C\obj\Debug\CsSocket_Multi_C.pdb
